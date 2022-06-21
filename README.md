@@ -1,4 +1,4 @@
 # Livro de Receitas 
 
-Olá ! Beem vindo ao livro de receitas
+Olá ! Bem vindo ao livro de receitas
 - Escondidinho de carne do sol
